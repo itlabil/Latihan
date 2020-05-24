@@ -1,2 +1,2 @@
 # Latihan
-Semua Bahasa Pemrograman yang sudah di coba
+Isinya yaaa.. latihan yang sudah di coba
